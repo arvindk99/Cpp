@@ -1,0 +1,42 @@
+*****************BDAY TREE IN INORDER************
+Dianna Ross                                                           1954-09-23
+
+Clark Kent                                                            1965-11-23
+
+Paul Blart                                                            1978-05-24
+
+Seema Kumar                                                           1973-07-12
+
+Marco Pollo                                                           1345-06-30
+
+Arvind Kumar                                                          1999-01-13
+
+Sunil Kumar                                                           1969-03-03
+
+George Washington                                                     1745-03-05
+
+Bruce Wayne                                                           1984-12-31
+
+Raksha Nathawat                                                       1999-08-23
+
+*****************BDAY TREE IN BREADTH FIRST************
+Arvind Kumar                                                          1999-01-13
+ 
+Paul Blart                                                            1978-05-24
+ 
+Bruce Wayne                                                           1984-12-31
+ 
+Clark Kent                                                            1965-11-23
+ 
+Marco Pollo                                                           1345-06-30
+ 
+George Washington                                                     1745-03-05
+ 
+Raksha Nathawat                                                       1999-08-23
+ 
+Dianna Ross                                                           1954-09-23
+ 
+Seema Kumar                                                           1973-07-12
+ 
+Sunil Kumar                                                           1969-03-03
+ 

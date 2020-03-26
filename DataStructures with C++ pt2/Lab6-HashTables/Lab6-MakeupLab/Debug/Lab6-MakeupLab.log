@@ -1,0 +1,9 @@
+﻿  Driver.cpp
+c:\users\seema\documents\visual studio 2017\projects\lab6-makeuplab\lab6-makeuplab\driver.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\seema\documents\visual studio 2017\projects\lab6-makeuplab\lab6-makeuplab\driver.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\seema\documents\visual studio 2017\projects\lab6-makeuplab\lab6-makeuplab\driver.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\seema\documents\visual studio 2017\projects\lab6-makeuplab\lab6-makeuplab\driver.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\seema\documents\visual studio 2017\projects\lab6-makeuplab\lab6-makeuplab\driver.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\users\seema\documents\visual studio 2017\projects\lab6-makeuplab\lab6-makeuplab\driver.cpp(261): warning C4018: '<': signed/unsigned mismatch
+  Lab6-MakeupLab.vcxproj -> C:\Users\Seema\documents\visual studio 2017\Projects\Lab6-MakeupLab\Debug\Lab6-MakeupLab.exe
+  Lab6-MakeupLab.vcxproj -> C:\Users\Seema\documents\visual studio 2017\Projects\Lab6-MakeupLab\Debug\Lab6-MakeupLab.pdb (Partial PDB)

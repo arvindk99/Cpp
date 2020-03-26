@@ -1,0 +1,10 @@
+﻿  Driver.cpp
+c:\users\seema\documents\visual studio 2017\projects\lab4\project5\driver.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\seema\documents\visual studio 2017\projects\lab4\project5\driver.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\seema\documents\visual studio 2017\projects\lab4\project5\driver.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\seema\documents\visual studio 2017\projects\lab4\project5\driver.cpp(269): warning C4018: '<': signed/unsigned mismatch
+  Calculator.cpp
+c:\users\seema\documents\visual studio 2017\projects\lab4\project5\calculator.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project5.vcxproj -> C:\Users\Seema\Documents\Visual Studio 2017\Projects\Lab4\Debug\Project5.exe
+  Project5.vcxproj -> C:\Users\Seema\Documents\Visual Studio 2017\Projects\Lab4\Debug\Project5.pdb (Partial PDB)
