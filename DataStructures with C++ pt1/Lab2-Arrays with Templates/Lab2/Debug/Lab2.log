@@ -1,0 +1,6 @@
+﻿  Driver.cpp
+c:\users\seema\documents\visual studio 2017\projects\lab2\lab2\driver.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\seema\documents\visual studio 2017\projects\lab2\lab2\templateclass.h(102): warning C4715: 'TemplateClass<int>::operator[]': not all control paths return a value
+c:\users\seema\documents\visual studio 2017\projects\lab2\lab2\templateclass.h(102): warning C4715: 'TemplateClass<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]': not all control paths return a value
+  Lab2.vcxproj -> C:\Users\Seema\documents\visual studio 2017\Projects\Lab2\Debug\Lab2.exe
+  Lab2.vcxproj -> C:\Users\Seema\documents\visual studio 2017\Projects\Lab2\Debug\Lab2.pdb (Partial PDB)
