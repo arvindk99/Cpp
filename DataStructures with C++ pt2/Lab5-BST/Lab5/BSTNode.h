@@ -1,6 +1,5 @@
 /*
 PARTNER 1: Arvind Kumar ID: 20372024
-PARTNER 2: Kevin Lam ID: 20290826
 */
 
 #ifndef BST_NODE_H
